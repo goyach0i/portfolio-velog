@@ -87,7 +87,6 @@ section {
 }
 
 .detail-menu {
-  line-height: 40px;
   display: grid;
   grid-template-columns: 112px 90px 80px;
   column-gap: 10px;
@@ -104,7 +103,6 @@ section {
 }
 
 .week {
-  background-color: #fff;
   display: flex;
   align-items: center;
   cursor: pointer;
